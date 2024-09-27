@@ -1,0 +1,14 @@
+{
+  "product": "my-product",
+  "version": "0.1-jeff",
+  "manifests": [
+    {
+      "name": "sample1",
+      "manifest": "alphav1"
+    },
+    {
+      "name": "sample2",
+      "manifest": "alphav2"
+    }
+  ]
+}
